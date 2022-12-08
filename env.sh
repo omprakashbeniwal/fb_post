@@ -1,0 +1,2 @@
+export DJANGO_SETTING_MODULE=testing_assignment_004.settings
+python manage.py shell

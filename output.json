@@ -1,0 +1,54 @@
+{
+  "post_id": 1,
+  "posted_by": {
+    "user_id": 1,
+    "name": "Rohit",
+    "profile_pic": "https://www.shutterstock.com/image-photo/large-thick-industrial-black-metal-chain-1081708619"
+  },
+  "posted_at": "2022-11-14 01:52:30+00:00",
+  "post_content": "first post",
+  "reactions": [],
+  "comments": [
+    {
+      "comment_id": 1,
+      "commenter": {
+        "user_id": 1,
+        "name": "Rohit",
+        "profile_pic": "https://www.shutterstock.com/image-photo/large-thick-industrial-black-metal-chain-1081708619"
+      },
+      "commented_at": "2022-11-14 01:52:30+00:00",
+      "comment_content": "first comment",
+      "reaction": [
+        {
+          "count": 1,
+          "type": [
+            "HA"
+          ]
+        }
+      ],
+      "replies_count": 0,
+      "replies": []
+    },
+    {
+      "comment_id": 2,
+      "commenter": {
+        "user_id": 1,
+        "name": "Rohit",
+        "profile_pic": "https://www.shutterstock.com/image-photo/large-thick-industrial-black-metal-chain-1081708619"
+      },
+      "commented_at": "2022-11-14 01:52:30+00:00",
+      "comment_content": "second comment",
+      "reaction": [
+        {
+          "count": 1,
+          "type": [
+            "WO"
+          ]
+        }
+      ],
+      "replies_count": 0,
+      "replies": []
+    }
+  ],
+  "comments_count": 2
+}
